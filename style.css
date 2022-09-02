@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+nav{
+    background-color: yellow;
+    padding: 16px 0px;
+    
+    
+
+}
+ul{
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+
+}
+ul li{
+    list-style-type: none;
+    display:inline-block;
+    padding:0px 10px;
+    
+    
+}
+ul li a{
+    text-decoration: none;
+}
+h1{
+    
+}
